@@ -1,0 +1,6 @@
+interface:
+  display_name: "鼠鼠幻想插图"
+  short_description: "生成抖音鼠鼠幻想泡泡梗图与贴纸拼贴插图"
+  default_prompt: "Use $shushu-fantasy-illustrations to 为这个场景生成鼠鼠幻想风格插图。"
+policy:
+  allow_implicit_invocation: true
